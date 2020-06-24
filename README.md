@@ -7,3 +7,4 @@ contibutors are:
 @jeevanKoiri
 @vikrant
 @dev
+Copyright law laagdaina.. majjaley code laai use garey hunchha.
