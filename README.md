@@ -3,7 +3,7 @@ this is a simple voting system coded using c.
 this was our project for C programming.
 better call it eMatadaan.c
 contibutors are:
-@prajwalPradhan
+@prajolpdn29 
 @jeevanKoiri
 @vikrant
 @dev
